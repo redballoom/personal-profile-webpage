@@ -4,7 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - 使用中文回复用户
 - 读取 README.md 文件，辅助我修改网页
-- 我的远程代码仓库地址：git@gitee.com:redballoon/personal-profile-webpage.git
+- 我的gitee远程代码仓库地址：git@gitee.com:redballoon/personal-profile-webpage.git
+- 我的github远程代码仓库地址：git@github.com:redballoom/personal-profile-webpage.git
 - 每次项目push前向我询问是否继续
 
 ## 项目概述
